@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <?xml version="1.0" ?>
+=======
+<?xml version="1.0"?>
+>>>>>>> 7282a444f144401f032ed6b5bd3e254b96651c0a
 <question type="truefalse">
  <answer fraction="100">
     <text>true</text>
